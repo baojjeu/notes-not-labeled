@@ -82,7 +82,7 @@ SSL (Secure Socket Layer)
 
 ## Chapter 5 (Wireless Networks)
 
-服務設定識別碼** [SSID](https://goo.gl/jvP9j4)**[ (Service Set Identifier)](https://goo.gl/jvP9j4)
+服務設定識別碼 [SSID](https://goo.gl/jvP9j4) (Service Set Identifier)
 
 **Wi-Fi** (Wireless Fidelity)
 
@@ -104,9 +104,9 @@ SSL (Secure Socket Layer)
 
 多輸入多輸出 **MIMO** (Multi-input Multi-output)
 
-車載隨意行動網路 ** [VANET](https://goo.gl/krI4IY) ** (Vehicular ad-hoc network)
+車載隨意行動網路 [VANET](https://goo.gl/krI4IY) (Vehicular ad-hoc network)
 
-第三代合作夥伴計畫 ** [3GPP](https://goo.gl/s7nXAi) ** (3rd Generation Partnership Project)
+第三代合作夥伴計畫 [3GPP](https://goo.gl/s7nXAi) (3rd Generation Partnership Project)
 
 ## Chapter 6 (Wired Networks)
 
