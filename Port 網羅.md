@@ -6,11 +6,11 @@
 
 Connection **TCP Port 21**
 
-File transfer **TCP Port 20** 
+File transfer **TCP Port 20**
 
 **TFTP** (p9)
 
-File transfer **UDP Port 69** 
+File transfer **UDP Port 69**
 
 **SMTP** (p14) **TCP Port 25**
 
@@ -30,10 +30,10 @@ DHCPv6 Server **UDP Port 547**
 
 DHCPv6 Client **UDP Port 546**
 
-**SNMPv3** (p19) 
+**SNMPv3** (p19)
 
 SNMP Manager **UDP** **Port 161**
 
-SNMP Agent** UDP Port 162**
+SNMP Agent **UDP Port 162**
 
 **NTP** (p20) **Port 123**

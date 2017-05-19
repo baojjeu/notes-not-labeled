@@ -32,11 +32,11 @@
 
 網路位址轉譯 **NAT** (Network Address Translation) **p14**
 
-無等級區域路由 **CIDR** (Classless InterDomain Routing) **p15**
+無等級區域路由 **CIDR** (Classless Inter-Domain Routing) **p15**
 
 ## Chapter 4
 
-簡單檔案傳輸協定 **TFTP** (Trivial File Transfer Protocol) **p9**
+簡單檔案傳輸協定 **TFTP** (Trivial File Transfer Protocol) **p9** (UDP 69)
 
 統一資源定址 **URL** (Uniform Resource Locator) **p10**
 
@@ -44,21 +44,23 @@
 
 多用途網際網路郵件延伸 **MIME** (Multipurpose Internet Mail Extension) **p13**
 
-簡單郵件傳輸協定 **SMTP** (Simple Mail Transfer Protocol) **p14**
+簡單郵件傳輸協定 **SMTP** (Simple Mail Transfer Protocol) **p14** (TCP 25)
 
-郵局通訊協定 **POP3** (Post Office Protocol 3) **p14**
+郵局通訊協定 **POP3** (Post Office Protocol 3) **p14** (TCP 110)
 
-網際網路訊息存取協定 **IMAP** (Internet Message Access Protocol) **p14**
+網際網路訊息存取協定 **IMAP** (Internet Message Access Protocol) **p14** (TCP 143)
 
-動態主機組態協定 **DHCP** (Dynamic Host Configuration Protocol) **p16**
+動態主機組態協定 **DHCP** (Dynamic Host Configuration Protocol) **p16** (UDP 67 for server; UDP 69 for client)
+
+**DHCPv6** (Dynamic Host Configuration Protocol Version 6) **p17** (UDP 547 for server; UPD 546 for client)
 
 自動私有 IP 定址 **APIPA** (Automatic Private IP Addressing) **p18**
 
-簡單網路管理協定 **SNMP** (Simple Network Management Protocol) **p19**
+簡單網路管理協定 **SNMP** (Simple Network Management Protocol) **p19** (UDP 161 for manager; UDP 162 for agent)
 
 軟體定義網路 **SDN** (Software Defined Network) **p20**
 
-網路時間協定 **NTP** (Network Time Protocol) **p20**
+網路時間協定 **NTP** (Network Time Protocol) **p20** (UDP 123)
 
 即時傳輸協定 **RTP** (Real-time Transport Protocol) **p21**
 
