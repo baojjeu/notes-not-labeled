@@ -34,6 +34,18 @@
 
 無等級區域路由 **CIDR** (Classless Inter-Domain Routing) **p15**
 
+自治系統 **AS** (Autonomous System) **p38**
+
+路由訊息協定 **RIP** (Routing Information Protocol) **p39**
+
+內部閘道路由協定 [IGRP](https://goo.gl/d7bjdz) (Interior Gateway Routing Protocol) **p40**
+
+增強型內部閘道路由協定 [EIGRP](https://goo.gl/UMh4rZ) **p40**
+
+開放式最短路徑優先 [OSPF](https://goo.gl/ZOk2AE) (Open Shortest Path First) **p41**
+
+邊界閘道器協定 [BGP](https://goo.gl/RSUfjB) (Border Gateway Protocol) **p41**
+
 ## Chapter 4
 
 簡單檔案傳輸協定 **TFTP** (Trivial File Transfer Protocol) **p9** (UDP 69)
