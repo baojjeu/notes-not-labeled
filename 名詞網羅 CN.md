@@ -8,6 +8,8 @@
 
 光纖分散式資料介面 **FDDI** (Fiber Distributed Data Interface)
 
+正交分頻多工 [OFDM](https://goo.gl/GW2V8U) (Orthogonal Frequency-division multiplexing)
+
 ## Chapter 2
 
 **LLC** (Logical Link Control)
@@ -33,6 +35,14 @@
 網路位址轉譯 **NAT** (Network Address Translation) **p14**
 
 無等級區域路由 **CIDR** (Classless Inter-Domain Routing) **p15**
+
+線性遞增，倍數遞減 [AIMD](https://goo.gl/mtD7I5) (Additive Increase Multiplicative Decrease) **27**
+
+攜回回應 [Piggyback Acknowledgement](https://goo.gl/3qTcN3) **p27**
+
+累積回應 [Cumulative Acknowledgement](https://goo.gl/WR5318) **p27**
+
+過早逾時 **Premature Timeout** **p27**
 
 自治系統 **AS** (Autonomous System) **p38**
 
@@ -121,6 +131,8 @@ SSL (Secure Socket Layer)
 車載隨意行動網路 [VANET](https://goo.gl/krI4IY) (Vehicular ad-hoc network)
 
 第三代合作夥伴計畫 [3GPP](https://goo.gl/s7nXAi) (3rd Generation Partnership Project)
+
+[CoA](https://goo.gl/nigtfy) (Care-of address)
 
 ## Chapter 6 (Wired Networks)
 
