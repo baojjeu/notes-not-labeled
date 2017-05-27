@@ -15,19 +15,22 @@
 
 ## IEEE 802.11
 
-*   a
-*   b
-*   e - QoS 功能
-*   g
-*   n
-*   k - 讓 IEEE 802.11 規範下之無線網路終端設備，可以收集臨近 AP 的資訊
+*   a (5 Ghz, 54 Mbps)
+*   b (2.4 Ghz, 11 Mbps)
+*   e - 無線網路的 QoS 標準
+*   g (2.4 Ghz, 54 Mbps)
+*   n (2.4 Ghz/5 Ghz, 600 Mbps)
+*   k - 讓 IEEE 802.11 規範下的無線網路終端設備可以收集鄰近 AP 的資訊
 *   p - VANET
-*   ac
-*   i - WPA2（標準）WPA（只實作部分）
+*   ac - (5 Ghz, 1 Gbps/100 Mbps)
+*   i - WPA2（的標準）WPA（只實作部分）
 
 ## IEEE 802.3
 
-* Ethernet
+*   Ethernet (10 Mbps)
+*   u - Fast Ethernet (100 Mbps)
+*   z - Gigabit Ethernet (1 Gbps)
+*   ae - 10G Ethernet (10 Gbps)
 
 ## IEEE 802.1
 

@@ -20,7 +20,7 @@
 
 ## Chapter 3
 
-位址解析協定** ARP** (Address Resolution Protocol)
+位址解析協定 **ARP** (Address Resolution Protocol)
 
 **RARP** (Reverse Address Resolution Protocol)
 
@@ -43,6 +43,8 @@
 累積回應 [Cumulative Acknowledgement](https://goo.gl/WR5318) **p27**
 
 過早逾時 **Premature Timeout** **p27**
+
+串流控制傳輸協定 [SCTP](https://goo.gl/RoqDy6) (Stream Control Transmission Protocol) **p31**
 
 自治系統 **AS** (Autonomous System) **p38**
 
@@ -76,6 +78,8 @@
 
 **DHCPv6** (Dynamic Host Configuration Protocol Version 6) **p17** (UDP 547 for server; UPD 546 for client)
 
+
+
 自動私有 IP 定址 **APIPA** (Automatic Private IP Addressing) **p18**
 
 簡單網路管理協定 **SNMP** (Simple Network Management Protocol) **p19** (UDP 161 for manager; UDP 162 for agent)
@@ -103,6 +107,10 @@
 SSL (Secure Socket Layer)
 
 傳輸層安全協議 [TLS](https://goo.gl/YKS2GU) (Transport Layer Security)
+
+A 紀錄 (Address, domain name -> IPv4) **p5**
+
+AAAA 紀錄 (Address, domain name -> IPv6) **p5**
 
 ## Chapter 5 (Wireless Networks)
 
