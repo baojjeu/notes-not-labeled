@@ -149,3 +149,6 @@ AAAA 紀錄 (Address, domain name -> IPv6) **p5**
 **CDN**  (Content Delivery Network)
 
 **RESTful** (Representational State Transfer)
+
+## Others
+ALM (Application-level Multicast)
